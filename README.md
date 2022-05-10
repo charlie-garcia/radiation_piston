@@ -1,2 +1,2 @@
 # radiation_piston
-Directivity patterns of some ditribution of pistons
+Directivity patterns of some ditributions of pistons
